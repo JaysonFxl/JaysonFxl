@@ -26,8 +26,8 @@ Siempre estoy en busca de nuevos retos y oportunidades para aprender y crecer.
 
 Si quieres hablar de tecnología, proyectos o simplemente decir hola, puedes encontrarme en:
 
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/jayson-flores-cartes-7b2536249/)
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [Correo](jayson.flores.cartes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayson-flores-cartes-7b2536249/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayson.flores.cartes@gmail.com)
 
 ## 📊 Mis Estadísticas en GitHub
 
