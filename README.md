@@ -7,10 +7,15 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Me especial
 Siempre estoy en busca de nuevos retos y oportunidades para aprender y crecer.
 
 ## 🔧 Tecnologías y Herramientas
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ## 🌟 Proyectos Destacados
@@ -21,8 +26,8 @@ Siempre estoy en busca de nuevos retos y oportunidades para aprender y crecer.
 
 Si quieres hablar de tecnología, proyectos o simplemente decir hola, puedes encontrarme en:
 
-- [LinkedIn](https://www.linkedin.com/in/jayson-flores-cartes-7b2536249/)
-- [Correo](jayson.flores.cartes@gmail.com)
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/jayson-flores-cartes-7b2536249/)
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [Correo](jayson.flores.cartes@gmail.com)
 
 ## 📊 Mis Estadísticas en GitHub
 
