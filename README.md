@@ -1,10 +1,14 @@
-### Hi, I'm JaysonFxl 👋
+# Hi, I'm JaysonFxl 👋
 Passionate developer from Chile
 
 ## 🙋‍♂️ Sobre Mí
 
+I am a developer passionate about technology and innovation. I specialize in web development.
+I am always looking for new challenges and opportunities to learn and grow.
+----------------------------------------------------------------------------------------------------
 Soy un desarrollador apasionado por la tecnología y la innovación. Me especializo en desarrollo web. 
-Siempre estoy en busca de nuevos retos y oportunidades para aprender y crecer.
+Siempre estoy en busca de nuevos retos y oportunidades para aprender y crecer. 
+
 
 ## 🔧 Tecnologías y Herramientas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
