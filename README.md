@@ -25,7 +25,7 @@ Si quieres hablar de tecnología, proyectos o simplemente decir hola, puedes enc
 
 ## 📊 Mis Estadísticas en GitHub
 
-![Tus Estadísticas de GitHub](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaysonFxl&show_icons=true&theme=radical))
+(![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaysonFxl&show_icons=true&theme=radical))
 
 ---
 💬 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios.
