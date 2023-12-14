@@ -7,7 +7,7 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Me especial
 Siempre estoy en busca de nuevos retos y oportunidades para aprender y crecer.
 
 ## 🔧 Tecnologías y Herramientas
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python)
+![Python](https://www.python.org)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
