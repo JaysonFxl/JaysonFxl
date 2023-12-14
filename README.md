@@ -5,7 +5,7 @@ Passionate developer from Chile
 
 I am a developer passionate about technology and innovation. I specialize in web development.
 I am always looking for new challenges and opportunities to learn and grow.
-----------------------------------------------------------------------------------------------------
+----------------------------------- ------------------------------------------------------
 Soy un desarrollador apasionado por la tecnología y la innovación. Me especializo en desarrollo web. 
 Siempre estoy en busca de nuevos retos y oportunidades para aprender y crecer. 
 
