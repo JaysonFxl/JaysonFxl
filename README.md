@@ -21,7 +21,7 @@ Siempre estoy en busca de nuevos retos y oportunidades para aprender y crecer.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ## 🌟 Proyectos Destacados
 -ProyectoRBP(https://github.com/JaysonFxl/ProyectoRBP): Proyecto Universitario sobre la creacion de una pagina web de Reservas de Canchas de futbol, contando con apartado de creacion de usuarios, reservas, dashboard de Administrador, entre otros.
 -Musicfly(https://github.com/JaysonFxl/Musicfly): Proyecto universitario semi terminado, sobre un buscador de musica con consumo de API de Deezer.
